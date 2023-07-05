@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>My Blog</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <!-- navigation -->
+    <header>
+        <h1>
+            <a href="/">
+                Noah Venable's Project 1 Blog
+            </a>
+        </h1>
+        <a href="mailto:venablenoah4@gmail.com" class="button">Send Email</a>
+        <a href="https://www.linkedin.com/in/noah-venable-44a71026a/" class="linkedin"><img
+                src="https://drive.google.com/uc?export=view&id=14GW-oOoadlMxUGs5FvKkgGkrihtkFyUh" alt="LinkedIn logo"
+                height="45px"></a>
+    </header>
+
+
+    <!-- "About" section -->
+    <section id="about" class="intro">
+        <!--Replace with your own image-->
+       <img src="https://drive.google.com/uc?export=view&id=1U-TC0JLyNf9WmiW6CmBE2sbr3_objHTe"
+            alt="Noah Venable Picture" height=375px;>
+        <h2 class="section-title">Hi, I'm Noah!</h2>
+        <p>
+            Hello! Welcome to my cybersecurity blog! It is great to have you here I am currently a student making a website in order to get a grade! Enjoy my blood sweat and tears!
+            <br><br>
+            Today our post includes some information on the Ransomware group 8Base and
+        </p>
+    </section>
+
+
+    <!-- "Blog Posts" section -->
+    <section id="blog-post-collection" class="blog-posts">
+        <h2 class="section-title">Blog Posts</h2>
+        <article class="blog-post">
+            <img src="https://drive.google.com/uc?export=view&id=1ueyXZqXdMHEawBDTGLVD5-Kdp1t5DUZy&rl" alt="Image 1">
+
+            <div class="blog">
+                <h3>Bad Actor Group 8Base Spike in Ransomware Activity</h3>
+                <h4>Ransomware,8Base</h4>
+                <p>We have been aware of the hacker group 8Base for over a year. Recently though there has been a heavy increase in their activity especially during May and June of 2023. The group identi$
+                </p>
+            </div>
